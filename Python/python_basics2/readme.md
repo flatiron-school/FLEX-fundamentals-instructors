@@ -1,19 +1,22 @@
-## Fundamentals: Python Basics 1
+## Fundamentals: Python Basics 2
 
-Link to Session for students: [Python Basics part 1](https://github.com/learn-co-students/FLEX-fundamentals-students/blob/main/Python/python_basics1/python_basics1.ipynb)
+Link to Session for students: [Python Basics part 2](https://github.com/learn-co-students/FLEX-fundamentals-students/blob/main/Python/python_basics2/python_basics2.ipynb)
 
-Link to Session solutions: [Python Basics Part 1 solutions](https://github.com/flatiron-school/FLEX-fundamentals-instructors/blob/main/Python/python_basics1/solutions_python_basics1.ipynb)
+Link to Session solutions: [Python Basics Part 2 solutions](https://github.com/flatiron-school/FLEX-fundamentals-instructors/blob/main/Python/python_basics2/solutions_python_basics2.ipynb)
 
-Student Exit Ticket Responses: [Exit Ticket](https://docs.google.com/forms/d/1KMX6Jc9OD_D03sRv0OR9GVXcFpXBzn1s54DOd7onemU/edit?usp=sharing)
+Student Exit Ticket Responses: [Exit Ticket](https://docs.google.com/forms/d/1dS76o162Wu2gsIsiBSZtHMcpIcZUEMJa1dyhMs2UEbY/edit?usp=sharing)
 
 ## Learning Goals
-1. Download data from the internet
-2. Use string methods to:
-  1. View text
-  2. Find substrings
-  3. Index and slice text
-  4. Replace text
-3. Save files to disk
+1. load data from disk
+2. determine length of a string
+3. split and count words in a string
+4. create a dictionary 
+  1. loop over a list
+  2. update a dictionary
+  3. use a conditional statement
+  4. return items in a dictionary as a list of tuples
+5. sort a list of tuples by second element
+6. create a simple graph with matplotlib
 
 Session Outline/Plan
 Students guide instructor on using basic python functions and methods to download, clean, and slice a text file, then save it to local disk.
@@ -21,7 +24,7 @@ Students guide instructor on using basic python functions and methods to downloa
 Introduction (1 Mins)
 Included in notebook.
 
-### Activity 1 ~10-30 Mins? (depends on student proficiency)
+### Activity 1 ~30-60 Mins? (depends on student proficiency)
 
 Students should each have a copy of the notebook and be working along with the group.  
 
@@ -31,7 +34,7 @@ They should end with a functional notebook walking through the learning goals.
 
 Use solution as guidance, but allow students to determine what the instructor enters into code cells.  
 **This should be a collaborative creation, not instructor led.**
-Instructor may use guiding questions to help students solve problems (
+Instructor may use guiding questions to help students solve problems
 
 * What did you find on Google?
 * What does the error say?
@@ -39,7 +42,7 @@ Instructor may use guiding questions to help students solve problems (
 
 ### Activity 2 (XX Mins)
 
-If there is a lot of time left, move on to python_basics Part 2 (found in this repo), though that notebook is longer and more challenging
+If there is a lot of time left, create more graphs or functionalize graph.  Probably won't be a lot of time left.
 
 Conclusion (1 Mins)
 Included in notebook
@@ -47,8 +50,7 @@ Included in notebook
 ## Extras: 
 Also, feel free to do more manipulation of data in this notebook.
 
-1. Students could iterate over the text and count characters
-2. Students could functionalize the steps in this notebook
+Up to instructor
 
 ## Tips
 Don't solve it for them, let them struggle.  Show error messages and guide them toward how to read and deal with them.
