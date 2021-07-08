@@ -1,4 +1,4 @@
-## Fundamentals: Python Collections
+## Fundamentals: SQL Basics
 
 Link to Session for students: [SQL basics - students](https://github.com/learn-co-students/FLEX-fundamentals-students/blob/main/SQL/student_SQL_basics.ipynb)
 
