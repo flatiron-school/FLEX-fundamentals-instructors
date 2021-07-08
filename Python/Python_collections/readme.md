@@ -1,6 +1,6 @@
 ## Fundamentals: Python Collections
 
-Link to Session for students: [Python Collections: Rick and Morty](https://github.com/flatiron-school/FLEX-fundamentals-instructors/blob/main/Python/Python_collections/student_python_collections_practice.ipynb)
+Link to Session for students: [Python Collections: Rick and Morty](https://github.com/learn-co-students/FLEX-fundamentals-students/blob/main/Python/Python_collections/student_python_collections_practice.ipynb)
 
 Link to Session solutions: [Python Collections: Rick and Morty](https://github.com/flatiron-school/FLEX-fundamentals-instructors/blob/main/Python/Python_collections/solutions_python_collections_practice.ipynb)
 
