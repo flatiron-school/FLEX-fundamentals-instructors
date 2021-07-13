@@ -4,7 +4,7 @@ Link to Session for students: [Python Basics part 2](https://github.com/learn-co
 
 Link to Session solutions: [Python Basics Part 2 solutions](https://github.com/flatiron-school/FLEX-fundamentals-instructors/blob/main/Python/python_basics2/solutions_python_basics2.ipynb)
 
-Student Exit Ticket Responses: [Exit Ticket](https://docs.google.com/forms/d/1dS76o162Wu2gsIsiBSZtHMcpIcZUEMJa1dyhMs2UEbY/edit?usp=sharing)
+Student Exit Ticket Responses: [Exit Ticket](https://docs.google.com/forms/d/1q5DiWQPlEMlcxSzJeNnvuw0T2dj9FYfLoif6r4Yl3dM/edit?usp=sharing)
 
 ## Learning Goals
 1. load data from disk
