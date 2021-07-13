@@ -4,7 +4,7 @@ Link to Session for students: [Python Collections: Rick and Morty](https://githu
 
 Link to Session solutions: [Python Collections: Rick and Morty](https://github.com/flatiron-school/FLEX-fundamentals-instructors/blob/main/Python/Python_collections/solutions_python_collections_practice.ipynb)
 
-Link to student exit ticket responses: [Exit Ticket](https://docs.google.com/forms/d/1X3hnm2On4C0HDUC4EYVqGg6ujeG2alCcComierT0thQ/edit?usp=sharing)
+Link to student exit ticket responses: [Exit Ticket](https://docs.google.com/forms/d/1q5DiWQPlEMlcxSzJeNnvuw0T2dj9FYfLoif6r4Yl3dM/edit?usp=sharing)
 
 ## Learning Goals
 1. Use Python packages to download information from the internet using an API
