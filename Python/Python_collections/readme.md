@@ -50,7 +50,13 @@ Don't solve it for them, let them struggle.  Show error messages and guide them 
 
 ## Instructor Name & Date of Session
 
+Josh Johnson: 7/21/2021
 
+## Change Log
+
+## Post-Session Notes
+
+Challengest took much longer than expected.  Students only got through part 1.  That's not a bad thing, but we might split this into 2 sessions if this patterns continues.
 
 ## Change Log
 
