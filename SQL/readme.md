@@ -4,7 +4,7 @@ Link to Session for students: [SQL basics - students](https://github.com/learn-c
 
 Link to Session solutions: [SQL basics](https://github.com/flatiron-school/FLEX-fundamentals-instructors/blob/main/SQL/solutions_SQL_basics.ipynb)
 
-Link to student exit ticket responses: [Exit Ticket](https://docs.google.com/forms/d/18PLmI8xvuzvfwYK-yvP5eTJ9sNYJt3le4tJ_exslCw4/edit?usp=sharing)
+Link to student exit ticket responses: [Exit Ticket](https://docs.google.com/forms/d/1q5DiWQPlEMlcxSzJeNnvuw0T2dj9FYfLoif6r4Yl3dM/edit?usp=sharing)
 
 ## Learning Goals
 1. Practice interpreting "word problems" and translating them into SQL queries

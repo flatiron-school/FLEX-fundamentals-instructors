@@ -4,7 +4,7 @@ Link to Session for students: [Python Basics part 1](https://github.com/learn-co
 
 Link to Session solutions: [Python Basics Part 1 solutions](https://github.com/flatiron-school/FLEX-fundamentals-instructors/blob/main/Python/python_basics1/solutions_python_basics1.ipynb)
 
-Student Exit Ticket Responses: [Exit Ticket](https://docs.google.com/forms/d/1KMX6Jc9OD_D03sRv0OR9GVXcFpXBzn1s54DOd7onemU/edit?usp=sharing)
+Student Exit Ticket Responses: [Exit Ticket](https://docs.google.com/forms/d/1q5DiWQPlEMlcxSzJeNnvuw0T2dj9FYfLoif6r4Yl3dM/edit?usp=sharing)
 
 ## Learning Goals
 1. Download data from the internet
