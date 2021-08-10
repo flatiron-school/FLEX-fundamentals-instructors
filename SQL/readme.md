@@ -46,9 +46,10 @@ Don't solve it for them, let them struggle.  Show error messages and guide them 
 
 ## Instructor Name & Date of Session
 
-
+Josh Johnson, 8/4/21
 
 ## Change Log
 
 ## Post-Session Notes
 8/4/2021 4 students attended.  Did everything through conditionals and subqueries.  Went well.  I did need to explain 'WHERE ... LIKE ...'
+Also, suggest adding 'GROUP BY' question practice to the notebook.
